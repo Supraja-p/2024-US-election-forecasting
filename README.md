@@ -1,7 +1,5 @@
 # 2024 US Presidential Election Forecasting
-This project employs machine learning techniques to predict the outcome of the 2024 U.S. Presidential Election. Developed as part of a university academic project at Indiana University Indianapolis, it integrates data from various sources to model and forecast electoral results.
-
-🚀 The project was deployed using Docker on the university's internal server infrastructure.
+This project employs machine learning techniques to predict the outcome of the 2024 U.S. Presidential Election. It integrates data from various sources to model and forecast electoral results.
 
 ## 🎯 Project Objective
 To build a predictive model that forecasts the 2024 U.S. Presidential Election results by analyzing data from platforms like Google Trends and Reddit, utilizing machine learning algorithms to identify patterns and trends indicative of electoral outcomes.
