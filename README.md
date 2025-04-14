@@ -12,7 +12,7 @@ To build a predictive model that forecasts the 2024 U.S. Presidential Election r
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Modeling Techniques: Logistic Regression, Random Forest, Support Vector Machines
 
-📈 Methodology
+## 📈 Methodology
 - Data Collection: Gathered data from Google Trends and Reddit to capture public interest and sentiment.
 - Data Preprocessing: Cleaned and normalized the data to ensure consistency and reliability.
 - Feature Engineering: Extracted relevant features that could influence election outcomes.
@@ -23,6 +23,5 @@ To build a predictive model that forecasts the 2024 U.S. Presidential Election r
 Analysis revealed that Donald Trump was the most frequently mentioned candidate across both Reddit and Google Trends, followed by Joe Biden. This indicates a higher level of public interest in Trump leading up to the election.
 
 ## 📌 Future Work
-- Incorporate additional data sources such as Twitter and news articles for a more comprehensive analysis.
 - Explore advanced modeling techniques like ensemble learning and deep learning.
 - Develop a real-time dashboard to visualize predictions and trends.
