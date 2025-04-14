@@ -11,7 +11,6 @@ To build a predictive model that forecasts the 2024 U.S. Presidential Election r
 - Data Sources: Google Trends, Reddit
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Modeling Techniques: Logistic Regression, Random Forest, Support Vector Machines
-- Deployment: Docker
 
 📈 Methodology
 - Data Collection: Gathered data from Google Trends and Reddit to capture public interest and sentiment.
